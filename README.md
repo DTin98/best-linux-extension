@@ -1,4 +1,4 @@
-# best-linux-extension
+# should-setup-ubuntu-app
 use for my own
 
 1. VLC
