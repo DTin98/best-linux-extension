@@ -1,4 +1,4 @@
-# should-setup-ubuntu-app
+# ubuntu-apps-should-setup
 use for my own
 
 1. IBus Bamboo
