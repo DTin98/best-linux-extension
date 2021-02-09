@@ -1,13 +1,14 @@
 # should-setup-ubuntu-app
 use for my own
 
-1. VLC
-2. Android Studio
-3. Figma-linux
-4. GitKraken => manage source control
-5. Insommia Designer => Restful API test app
-6. KDEConnect => connect pc to phone
-7. Mailstrping
-8. Remmina => SSH app
-9. Shotwell => Organize your photos
-10. Slack
+1. IBus Bamboo
+2. VLC
+3. Android Studio
+4. Figma-linux
+5. GitKraken => manage source control
+6. Insommia Designer => Restful API test app
+7. KDEConnect => connect pc to phone
+8. Mailstrping
+9. Remmina => SSH app
+10. Shotwell => Organize your photos
+11. Slack
