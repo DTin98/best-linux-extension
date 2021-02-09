@@ -12,3 +12,4 @@ use for my own
 9. Remmina => SSH app
 10. Shotwell => Organize your photos
 11. Slack
+14. Visual Studio Code => https://code.visualstudio.com/
