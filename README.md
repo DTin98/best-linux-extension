@@ -13,3 +13,4 @@ use for my own
 10. Shotwell => Organize your photos
 11. Slack
 14. Visual Studio Code => https://code.visualstudio.com/
+15. Xclip -> copy to clipboard: xclip myfile
